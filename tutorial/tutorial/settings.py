@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'tutorial.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'djangorestframeworkdb',
+        'NAME': 'newdjangorestframework',
         'USER': 'marteen',
         'PASSWORD': 'djangorules',
         'HOST': 'localhost',
